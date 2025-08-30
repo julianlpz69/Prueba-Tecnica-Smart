@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# EF Core
+Migrations/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Config temporal
+Backend/.vs/
