@@ -1,0 +1,19 @@
+h2 {
+  font-weight: 700;
+  color: #000; // negro fuerte
+}
+
+.table-dark th {
+  background-color: #f8f9fa !important; // fondo gris claro en vez de negro
+  color: #000 !important;              // texto negro
+  font-weight: 700;                    // negrita fuerte
+}
+
+th {
+  cursor: pointer;
+  user-select: none;
+}
+
+th:hover {
+  text-decoration: underline;
+}
